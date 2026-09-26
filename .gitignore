@@ -1,0 +1,18 @@
+# Java compiled files
+*.class
+
+# Java build output
+out/
+target/
+bin/
+
+# Windows generated files
+desktop.ini
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
